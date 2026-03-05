@@ -1,4 +1,3 @@
-import React from "react";
 import SideBars from "../Sidebars/SideBars";
 import TicketCard from "../TicketsCards/TicketsCards";
 
